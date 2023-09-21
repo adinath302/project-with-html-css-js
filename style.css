@@ -1,0 +1,18 @@
+#joke{
+  background-color: rgb(183, 208, 255);
+  color: rgb(90, 74, 74);
+  font-size: 1.5rem;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+#btn{
+  position: absolute;
+  margin-top: 10%;
+  right: 50%;
+  padding: 10px;
+  font-size: 30px;
+  align-items: center;
+  color: rgb(204, 198, 198);
+  background: green;
+}
